@@ -1,0 +1,40 @@
+<html>
+<head>
+
+
+
+<link href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet"type="text/css"href="mustache.css"/>
+</head>
+<body>
+<header>
+<img src="products/header.jpg"/>
+</header>
+<ul class="products">
+</ul>
+<div class="bag"></div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.2/mustache.min.js"></script>
+
+
+
+<script id="product-template" type="text/template">
+{{#products}}
+ <li class="product-details">
+ <img class="product-image" src={{ima}}>
+ <span>{{name}}</span>
+ <span>{{description}}</span>
+ </li>
+{{/products}}
+</script>
+
+<script src="mustache.js" type="text/javascript">
+</script>
+
+</body>
+
+</html>

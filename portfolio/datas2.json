@@ -1,0 +1,77 @@
+{
+	"products": [{
+	        
+			"description": "delicate foam",
+			"name": "THE CLEANSING FOAM",
+			"ima": "gallery1.jpg",
+			"content": "announncement"
+		},
+		{
+			"description": "foaming gel",
+			"name": "THE CLEANSING GEL",
+			"ima": "gallery2.jpg",
+			"content": "announcement"
+		},
+		{
+			"description": "protect",
+			"name": "THE INTENSIVE REVITALIZING MASK",
+			"ima": "gallery3.jpg",
+	"content": "announcement"
+		},
+		{
+			"description": "Energize",
+			"name": "THE TREATMENT LOTIONS",
+			"ima": "gallery4.jpg",
+			"content": "announcement"
+		},
+		{
+			"description": "ultra rich devy",
+			"name": "CREME DE LA MER",
+			"ima": "gallery5.jpg",
+"content": "announcement"
+		},
+		{
+			"description": "weightless luminous",
+			"name": "THE MOISTURIZING SOFT CREAM",
+			"ima": "gallery12.jpg",
+			"content": "announcement"
+		},
+		{
+			"description": "delicate foam",
+			"name": "THE CLEANSING FOAM",
+			"ima": "gallery7.jpg",
+			"content": "announcement"
+		},
+		{
+			"description": "foaming gel",
+			"name": "THE CLEANSING GEL",
+			"ima": "gallery8.jpg",
+	"content": "announcement"
+		},
+		{
+			"description": "protect",
+			"name": "THE INTENSIVE REVITALIZING MASK",
+			"ima": "gallery9.jpg",
+		"content": "announcement"
+		},
+		{
+			"description": "Energize",
+			"name": "THE TREATMENT LOTIONS",
+			"ima": "gallery10.jpg",
+			"content": "announcement"
+		},
+		{
+			"description": "ultra rich devy",
+			"name": "CREME DE LA MER",
+			"ima": "gallery11.jpg",
+			"content": "announcement"
+		},
+		{
+			"description": "weightless luminous",
+			"name": "THE MOISTURIZING SOFT CREAM",
+			"ima": "gallery12.jpg",
+		"content": "announcement"
+		}
+	]
+
+}
